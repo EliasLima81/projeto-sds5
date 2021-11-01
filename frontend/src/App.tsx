@@ -21,7 +21,6 @@ function App() {
            <h5 className="text-center text-secondary"> Taxa de Sucesso (%) </h5>
            <DonutChart/>
           </div>
-
         </div>
 
         <div className="py-3">
